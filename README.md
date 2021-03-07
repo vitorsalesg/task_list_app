@@ -49,7 +49,7 @@ Além disto é bom ter um editor para trabalhar com o código como [VSCode](http
 $ git clone https://github.com/vitorsalesg/task_list_app.git
 
 # Acesse a pasta do projeto no terminal/cmd
-$ cd search_my_address
+$ cd task_list_app
 
 # Instale os packages
 $ flutter pub get
